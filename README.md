@@ -85,9 +85,9 @@ primero vemos las funciones en lambda:
   
   y por ultimo verificamos el funcionamiento:
   
-    ![funcos](https://github.com/jocajime/PARCIAL-2-AREP/blob/master/img/funcos.PNG)
+![funcos](https://github.com/jocajime/PARCIAL-2-AREP/blob/master/img/funcos.PNG)
 	
-	![funasin](https://github.com/jocajime/PARCIAL-2-AREP/blob/master/img/funasin.PNG)
+![funasin](https://github.com/jocajime/PARCIAL-2-AREP/blob/master/img/funasin.PNG)
 
 se puede ver el video en la carpeta videos.
 

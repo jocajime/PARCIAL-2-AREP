@@ -14,19 +14,19 @@ http://ec2-3-88-144-84.compute-1.amazonaws.com:35000/[cos o asin]?value=[numero]
 ### MUESTRA DE FUNCIONAMIENTO
 primero vemos el repositorio de DockerHub:
 
- ![fotorepo](/img/fotorepo)
+ ![fotorepo](https://github.com/jocajime/PARCIAL-2-AREP/blob/master/img/fotorepo.PNG)
  
  luego vemos la instancia en EC2:
  
- ![fotoinstancia](/img/fotoinstancia)
+ ![fotoinstancia](https://github.com/jocajime/PARCIAL-2-AREP/blob/master/img/fotoinstancia.PNG)
  
 notamos como esta funcionando nuestro contenedor en la instancia de EC2 conectandonos desde cmd de windows:
 
- ![fotocmd](/img/fotocmd)
+ ![fotocmd](https://github.com/jocajime/PARCIAL-2-AREP/blob/master/img/fotocmd.PNG)
  
 y por ultimo comprobamos su funcionamiento desde un navegador.
 
- ![fotonavegador](/img/fotonavegador)
+ ![fotonavegador](https://github.com/jocajime/PARCIAL-2-AREP/blob/master/img/fotonavegador.PNG)
  
 ### INSTALACION LOCAL
 Si queremos tener una instalación local de este servicio correremos el siguiente comando una vez iniciado el servicio de docker:
